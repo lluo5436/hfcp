@@ -3,7 +3,7 @@ Dynamic Customer Segmentation via Hierarchical Fragmentation-Coagulation Process
 
 This repository contains Matlab files for the inference algorithm of the manuscript "Dynamic Customer Segmentation via Hierarchical Fragmentation-Coagulation Processes".
 
-Date: 8/6/2022
+Author: Ling Luo, Bin Li, Xuhui Fan, YangWang, Irena Koprinska, Fang Chen
 
 (1) HFCPMain.m: this file creates a synthetic dataset and calls hfcp function to build HFCP model on this dataset.
 
